@@ -2,4 +2,4 @@
 
 - 
 
-![Alt text](https://raw.githubusercontent.com/ESSTX/{g}/main/screen.png?raw=true "screenshot")
+![Alt text](https://raw.githubusercontent.com/ESSTX/html-css-js-minifier/main/screen.png?raw=true "screenshot")

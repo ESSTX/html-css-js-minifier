@@ -1,5 +1,5 @@
-### Web Hammer Units Converter
+### HTML CSS JS Minifier
 
-- Simple converter based on information from [Dimensions](https://developer.valvesoftware.com/wiki/Dimensions_(Half-Life_2_and_Counter-Strike:_Source)/en "Dimensions")
+- used html-minifier and CodeMirror
 
-![Alt text](https://raw.githubusercontent.com/ESSTX/hammer-units-converter/main/screen.png?raw=true "screenshot")
+![Alt text](https://raw.githubusercontent.com/ESSTX/html-css-js-minifier/main/screen.png?raw=true "screenshot")
